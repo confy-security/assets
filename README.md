@@ -1,0 +1,2 @@
+# assets
+Ativos estáticos
